@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **html,CSS,javascript,Bootstrap,React.js,Tailwind CSS,Material Ui**
 
-- 📫 How to reach me **jayashreeshitole8626@gmail.com**
+- 📫 How to reach me **shitolevishal27@gmail.com**
 
 - 📄 Know about my experiences [file:///C:/Users/atuls/Downloads/Mayank%20Malviya.pdf](file:///C:/Users/atuls/Downloads/Mayank%20Malviya.pdf)
 
