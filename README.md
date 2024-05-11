@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://coding-vishal-portfolio.netlify.app/](https://coding-vishal-portfolio.netlify.app/)
 
-- 💬 Ask me about **html,CSS,javascript,Bootstrap,React.js,Tailwind CSS,Material Ui**
+- 💬 Ask me about **Frontend and Android Development**
 
 - 📫 How to reach me **shitolevishal29@gmail.com**
 
