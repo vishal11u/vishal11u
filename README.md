@@ -17,9 +17,9 @@
 
 - 📫 How to reach me **shitolevishal29@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/atuls/Downloads/Mayank%20Malviya.pdf](file:///C:/Users/atuls/Downloads/Mayank%20Malviya.pdf)
+- 📄 Know about my experiences 
 
-- ⚡ Fun fact **I Think**
+- ⚡ Fun fact **I Think Development like Playground**
 
 <h3  align="left">Connect with me:</h3>
 <p align="left">
