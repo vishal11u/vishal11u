@@ -19,10 +19,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/princemynk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="princemynk" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mayank malviya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayank malviya" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vishal1-shitole/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayank malviya" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23500413/vishal-shitole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mayank malviya" height="30" width="40" /></a>
-<a href="https://fb.com/prince mynk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prince mynk" height="30" width="40" /></a>
-<a href="https://instagram.com/it.s_prince__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="it.s_prince__" height="30" width="40" /></a>
+<a href="https://www.instagram.com/____itzvishal_11_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="it.s_prince__" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
